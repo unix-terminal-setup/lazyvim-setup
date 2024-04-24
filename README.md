@@ -8,5 +8,5 @@ Install NeoVim with the LazyVim distribution.
 ### Quick Start
 
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/linux-terminal-setup/lazyvim-setup/main/setup.sh | bash
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/unix-terminal-setup/lazyvim-setup/main/setup.sh | bash
 ```
